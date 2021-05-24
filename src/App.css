@@ -1,0 +1,80 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.navbar{
+  width: 90%;
+  height: 5vh;
+  background-color: rgb(231, 231, 231);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+
+.searchInput{
+  padding: 7px 70px;
+  border-radius: 7px 0px 0px 7px;
+  border: none;
+}
+
+
+
+.profileimage{
+  height: 40px;
+  margin-left: 10px;
+}
+
+
+.authArea{
+  display: flex;
+  align-items: center;
+}
+
+.loginBtn{
+  border: none;
+  background-color: red;
+  color: white;
+  padding: 6px 20px;
+  margin-right: 10px;
+  border-radius: 3px;
+}
+
+.signUpBtn{
+  border: none;
+  color: red;
+  background-color: white;
+  padding: 6px 20px;
+  border-radius: 3px;
+}
+
+
+.sideBar{
+  background-color: rgb(192, 188, 188);
+  width: 150px;
+  height: 95vh;
+  padding-left: 20px;
+
+}
+
+.sideBar li{
+  list-style-type: none;
+  margin-top: 7px;
+}
+.leftSecOne{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+.LeftSecTwo{
+  padding-bottom: 30px;
+}
+
+.livediv1{
+  display: flex;
+}
+
